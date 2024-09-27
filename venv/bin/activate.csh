@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/danialkhan/Documents/Personal-Github-Repos/flask-web-app/flasky/venv"
+setenv VIRTUAL_ENV "/Users/danialkhan/Documents/Personal-Github-Repos/E444-F2024-PRA2/venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
